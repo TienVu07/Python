@@ -6,5 +6,4 @@ def xinchao():
 
 if __name__ == "__main__":
     xinchao()
-
-test.phepcong()
+    test.phepcong()
