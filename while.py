@@ -1,5 +1,6 @@
-print("123")
-x = 10
-while x > 0:
-    print(x)
-    x -= 1
+name = input("nhap ten: ").strip()
+
+while not name:
+    name = input("ban chua nhap ten,xin vui long nhap ten cua ban: ").strip()
+
+print(f"Xin chao {name}!!")
