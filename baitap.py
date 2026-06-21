@@ -67,4 +67,5 @@ def menu():
         elif choice == "3":
             break
 
-menu()
+if __name__ == "__main__":
+    menu()
