@@ -1,9 +1,10 @@
+# Du lieu dau vao(dict)
 kho = {
     "ao": {"ton": 10, "ban": 5},
     "quan": {"ton": 8, "ban": 4},
     "giay": {"ton": 6, "ban": 6}
 }
-
+#menu chuc nang(list)
 options = [
         "1. Xem kho",
         "2. Them hang moi",
